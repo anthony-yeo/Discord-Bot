@@ -1,0 +1,1 @@
+exports.responses= ["What a stupid question", "That's gonna be a fat no from me sailor", "That's gonna be a fat yes from me sailor", "In your dreams", "Is a duck's ass water tight?", "Most likely", "Your answer is Hentai"]
